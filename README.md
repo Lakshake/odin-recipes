@@ -1,0 +1,1 @@
+I am currently progressing through the Odin Project (great tool to learn coding). This is one of my first  git repositories. 
